@@ -105,6 +105,25 @@ M.native = {
     Todo = { fg = c.cyan, bg = c.none },
 }
 
+M.html = {
+	htmlArg = { fg = c.fg },
+    htmlBold = { fg = c.fg, bg = c.none },
+    htmlEndTag = { fg = c.fg },
+    htmlStyle = { fg = c.blue, bg = c.none },
+    htmlLink = { fg = c.green },
+    htmlSpecialChar = { fg = c.yellow },
+    htmlSpecialTagName = { fg = c.blue },
+    htmlTag = { fg = c.fg },
+    htmlTagN = { fg = c.yellow },
+    htmlTagName = { fg = c.yellow },
+    htmlTitle = { fg = c.green },
+    htmlH1 = { fg = c.blue },
+    htmlH2 = { fg = c.blue },
+    htmlH3 = { fg = c.blue },
+    htmlH4 = { fg = c.blue },
+    htmlH5 = { fg = c.blue },
+}
+
 M.terminal = {
 	terminal_color_0 = c.black,
 	terminal_color_1 = c.red,
