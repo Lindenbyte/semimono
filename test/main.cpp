@@ -17,7 +17,7 @@ int main(int argc, const char** argv) {
 	x = 1337;
 
 	float d = 0.1351f;
-	double f = 0.001036103613061;
+	double f = 0.001036103613061d;
 	char* well = "hello, there!";
 
 	return 0;
