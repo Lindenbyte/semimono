@@ -6,6 +6,10 @@ void print_something(char* msg, T test) {
 	std::cout << msg << " " << test << std::endl;
 }
 
+constexpr char* why(char* you) {
+	return "do this";
+}
+
 int main(int argc, const char** argv) {
 	print_something("Hello, World!", 0x1350)
 	
