@@ -3,7 +3,7 @@ Colorscheme for Neovim with lower saturation and more "mono"toned in nature.
 Be warned, this colorscheme is still in progress and developed at my own lessure, use at your own risk.
 
 ## Example
-Example coming later when it's at a better state.
+![Basic CPP image example](/img/semimono-cpp.png)
 
 ## Installation
 LazyVim
