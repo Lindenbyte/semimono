@@ -2,7 +2,7 @@ local groups = require("semimono.groups")
 local M = {}
 
 local set_groups = function()
-	local g = { groups.native }
+	local g = { groups.native, groups.html }
 
 	for _, grp in pairs(g) do
 		for key, col in pairs(grp) do
